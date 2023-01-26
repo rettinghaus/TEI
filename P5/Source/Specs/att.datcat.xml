@@ -99,7 +99,7 @@
       header) is also an option.</p>
     <p>The example below presents an <gi>fvLib</gi> element that collects the relevant feature values
       (most of them omitted). At the same time, this example shows one way of encoding a 
-      <term>tagset</term>, i.e., an established inventory of values of (in the case at hand)
+      <term>tagset</term>, i.e. an established inventory of values of (in the case at hand)
       morphosyntactic categories.
       <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:id="DATCAT-egXML-fo">
         <fvLib n="POS values">
@@ -307,7 +307,7 @@
     <p>The <ident type="class">att.datcat</ident> class provides means of addressing the containers
       and their values, while at the same time providing a way to interpret them in the context of
       external taxonomies or ontologies. Aligning e.g. both the <gi>pos</gi> element and the
-        <att>pos</att> attribute with the same value of an external reference point (i.e., an entry
+        <att>pos</att> attribute with the same value of an external reference point (i.e. an entry
       in an agreed taxonomy) affirms the identity of the concept serialised by both the element container
       and the attribute container, and optionally provides a definition of that concept (in the case at hand,
       the concept <term>part of speech</term>).</p>

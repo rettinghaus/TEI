@@ -63,7 +63,7 @@
                attributes. It is described in the informational <ref target="https://www.rfc-editor.org/info/rfc6067">RFC 6067</ref>.</item>
             <label>private use</label>
             <item>An extension that uses the initial subtag of the single letter
-          <mentioned>x</mentioned> (i.e., starts with <code>x-</code>) has no meaning except as
+          <mentioned>x</mentioned> (i.e. starts with <code>x-</code>) has no meaning except as
           negotiated among the parties involved. These should be used with great care, since they
           interfere with the interoperability that use of RFC 4646 is intended to promote. In order
           for a document that makes use of these subtags to be TEI-conformant, a corresponding
@@ -223,7 +223,7 @@
           de la norme BCP 47, mais à l'heure actuelle de telles extensions ne sont pas utilisées.</item>
             <label>usage privé</label>
             <item>Une extension utilisant la sous-étiquette initiale de la lettre
-          <mentioned>x</mentioned> (i.e., commençant par <code>x-</code>) n'a pas d'autre signification
+          <mentioned>x</mentioned> (i.e. commençant par <code>x-</code>) n'a pas d'autre signification
           que celle négociée entre les parties impliquées. Ces sous-étiquettes doivent être utilisées avec
           beaucoup de prudence, car elles interfèrent avec l'interopérabilité que l'utilisation de
           la norme RFC 4646 vise à promouvoir. Pour qu'un document qui utilise ces sous-étiquettes soit

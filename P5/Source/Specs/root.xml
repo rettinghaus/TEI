@@ -45,7 +45,7 @@ other analytic element.</desc>
       <desc versionDate="2007-01-21" xml:lang="it">fornisce una lista di identificatori degli elementi figli del nodo radice</desc>
       <datatype maxOccurs="unbounded"><dataRef key="teidata.pointer"/></datatype>
       <remarks versionDate="2013-12-06" xml:lang="en">
-        <p>If the root has no children (i.e., the tree is
+        <p>If the root has no children (i.e. the tree is
 <soCalled>trivial</soCalled>), then the <att>children</att>
 attribute should be omitted.  </p>
       </remarks>
