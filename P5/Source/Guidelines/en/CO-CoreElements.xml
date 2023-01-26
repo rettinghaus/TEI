@@ -4660,7 +4660,7 @@ value <val>a</val> implies the analytic level; the values
 <val>m</val>, <val>j</val>, and <val>u</val> imply the monographic level; the value <val>s</val> implies the series level.  Note, however, that the
 semantic error occurs only if the nested title is directly enclosed by
 the <gi>analytic</gi>, <gi>monogr</gi>, or <gi>series</gi> element; if
-it is enclosed only indirectly (i.e., nested more deeply), no semantic error need be present.  For
+it is enclosed only indirectly (i.e. nested more deeply), no semantic error need be present.  For
 example, the analytic title may contain a monographic title, as in the
 following example:
   <egXML xmlns="http://www.tei-c.org/ns/Examples" source="#NONE"><biblStruct>

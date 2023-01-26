@@ -1327,7 +1327,7 @@ be divided into text divisions marked with <gi>div</gi> or
 <q>act</q> and <q>scene</q>, further subdivisions or sequences may be
 identified, composed of individual <q>shots</q>, each associated with
 a single camera angle and setting.  Shots and sequences should be
-encoded using an appropriate text-division element (i.e., a
+encoded using an appropriate text-division element (i.e. a
 <gi>div3</gi> element if numbered division elements are in use and the
 next largest unit is a <gi>div2</gi>, or a <gi>div</gi> element if
 un-numbered divisions are in use) specifying <val>sequence</val> or

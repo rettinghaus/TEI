@@ -142,7 +142,7 @@
           a practical step-by-step guide, see 
           <ptr target="https://www.w3.org/International/questions/qa-choosing-language-tags.en.php"/>.</p>
         <p>The value used must conform with BCP 47. If the value is a
-          private use code (i.e., starts with <val>x-</val> or contains
+          private use code (i.e. starts with <val>x-</val> or contains
           <val>-x-</val>), a <gi>language</gi> element with a matching
           value for its <att>ident</att> attribute should be supplied in
           the TEI header to document this value. Such documentation may

@@ -1417,7 +1417,7 @@ specification (which declares what default value should be supplied
 when the named feature does not appear in an <gi>fs</gi>). 
 If, in a feature
 structure, a feature:
-<list rend="bulleted"><item> is not optional (i.e., is obligatory),</item>
+<list rend="bulleted"><item> is not optional (i.e. is obligatory),</item>
 <item> has no value provided, or the value <gi>default</gi> is
 provided (see <ref target="#FSBO">ISO 24610-1, Subclause 5.10, Default Values</ref>, and</item>
 <item> either has no default specified, or has conditional defaults,
@@ -1779,7 +1779,7 @@ also have an auxiliary and a finite verb form.  That is,
    </fs>
 </cond></egXML></p>
 <p>The second constraint says that if a construction has a BAR value of
-zero (i.e., it is a sentence), then it must have a value for the
+zero (i.e. it is a sentence), then it must have a value for the
 features N, V, and SUBCAT.  By the same token, because it is a
 biconditional, if it has values for N, V, and SUBCAT, it must have
 BAR='0'.  That is,
@@ -1794,7 +1794,7 @@ BAR='0'.  That is,
 </bicond></egXML></p>
 <!-- <binary> was <any>-->
 <p>The final constraint says that if a construction has a BAR value of 1
-(i.e., it is a phrase), then the SUBCAT feature should be absent (~).
+(i.e. it is a phrase), then the SUBCAT feature should be absent (~).
 This is not biconditional, since there are other instances under which
 the SUBCAT feature is inappropriate.  That is,
    <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:lang="und" source="#UND"><cond>

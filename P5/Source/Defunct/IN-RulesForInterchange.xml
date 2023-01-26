@@ -279,7 +279,7 @@ guaranteed to succeed, and negotiation of interchange formats is
 therefore <emph>required</emph>, if any of the following apply:
 <list type="simple">
 <item>The communications link between the interchange partners garbles
-or corrupts any characters of ISO 646 (IRV), (i.e., ISO 646 (IRV) is
+or corrupts any characters of ISO 646 (IRV), (i.e. ISO 646 (IRV) is
 not a subset of the transmission character set).</item>
 <item>The communications link maps characters not in the repertoire of
 ISO 646 (IRV) onto characters in that repertoire.

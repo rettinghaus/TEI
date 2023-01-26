@@ -48,7 +48,7 @@ text profile may however be of use in any form of automatic text
 processing.  The TEI elements used to encode the profile description
 are described in section <ptr target="#HD4"/> below.</item>
 <item>a container element, tagged <gi>xenoData</gi>, which allows easy
-inclusion of metadata from non-TEI schemes (i.e., other than
+inclusion of metadata from non-TEI schemes (i.e. other than
 elements in the TEI namespace). For example, the MARC record for the
 encoded document might be included using MARCXML or MODS. A simple set
 of metadata for harvesting might be included encoded in Dublin
@@ -2802,7 +2802,7 @@ and about the revision of the file.
          <stdVals>
             <p>The values of <att>when-iso</att> on the <gi>time</gi>
             element always end in the format <val>HH:MM</val> or
-            <val>HH</val>; i.e., seconds, fractions thereof, and time
+            <val>HH</val>; i.e. seconds, fractions thereof, and time
             zone designators are not present.</p>
          </stdVals>
          <interpretation>

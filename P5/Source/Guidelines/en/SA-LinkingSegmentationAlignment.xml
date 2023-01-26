@@ -1099,7 +1099,7 @@ specific steps to transform it into a URI reference:
           etc.) with the corresponding matched substrings</item>
         <item>the result is taken as if it were a relative or 
           absolute URI reference specified on the <att>target</att> 
-          attribute; i.e., it should be used as is or combined with
+          attribute; i.e. it should be used as is or combined with
           the current <att>xml:base</att> attribute value as usual</item>
         <item>no further processing of this value of the <att>cRef</att> 
           attribute against the <gi>refsDecl</gi> should take place</item>

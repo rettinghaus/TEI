@@ -340,7 +340,7 @@ structures defined in this module. The content model for
 nest within entries, and that senses nest within entries, homographs,
 or senses, and may be nested to any depth to reflect the embedding of
 sub-senses. Any of the top-level constituents (<gi>def</gi>,
-<gi>usg</gi>, <gi>form</gi>, etc.) can appear at any level (i.e.,
+<gi>usg</gi>, <gi>form</gi>, etc.) can appear at any level (i.e.
 within entries, homographs, or senses).<specGrp xml:id="DDIEN" n="Dictionary entries and their structure">
 
 
@@ -2373,7 +2373,7 @@ plausibly be included in either a strictly typographic or an editorial view. In 
 lexical view, the only information preserved concerning domain would be some standard
 symbol or string representing the nautical domain (e.g. <q>naut.</q>) regardless of the
 form in which it appears in the printed dictionary. </p>
-<p>In practice, publishers begin with the lexical view—i.e., lexical data as it might
+<p>In practice, publishers begin with the lexical view—i.e. lexical data as it might
 appear in a database—and generate first the editorial view, which reflects editorial
 choices for a particular dictionary (such as the use of the abbreviation <q>Naut.</q>
 for <q>nautical</q>, the fonts in which different types of information are to be

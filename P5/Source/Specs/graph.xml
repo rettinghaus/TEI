@@ -130,7 +130,7 @@ instead of the <att>adj</att> attribute.</p>
       </remarks>
     </attDef>
     <attDef ident="order" usage="opt">
-      <desc versionDate="2005-01-14" xml:lang="en">states the order of the graph, i.e., the number of its nodes.</desc>
+      <desc versionDate="2005-01-14" xml:lang="en">states the order of the graph, i.e. the number of its nodes.</desc>
       <desc versionDate="2007-12-20" xml:lang="ko">그래프의 순서를 진술한다. 즉, 그래프 노드의 번호.</desc>
       <desc versionDate="2007-05-02" xml:lang="zh-TW">說明圖形次序，例如：節點數目。</desc>
       <desc versionDate="2008-04-05" xml:lang="ja">当該グラフのオーダー。グラフに含まれるノード数を示す。</desc>
@@ -140,7 +140,7 @@ instead of the <att>adj</att> attribute.</p>
       <datatype><dataRef key="teidata.count"/></datatype>
     </attDef>
     <attDef ident="size" usage="opt">
-      <desc versionDate="2005-01-14" xml:lang="en">states the size of the graph, i.e., the number of its arcs.</desc>
+      <desc versionDate="2005-01-14" xml:lang="en">states the size of the graph, i.e. the number of its arcs.</desc>
       <desc versionDate="2007-12-20" xml:lang="ko">그래프의 크기를 진술한다. 즉, 그래프 호의 수.</desc>
       <desc versionDate="2007-05-02" xml:lang="zh-TW">說明圖形大小，例如：連線數目。</desc>
       <desc versionDate="2008-04-05" xml:lang="ja">当該グラフのサイズ。グラフに含まれる辺数を示す。</desc>
