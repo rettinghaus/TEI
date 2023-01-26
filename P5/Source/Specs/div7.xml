@@ -98,7 +98,7 @@
       </egXML>
     </exemplum>
     <remarks versionDate="2006-07-02" xml:lang="en">
-      <p rend="dataDesc">any sequence of low-level structural elements, e.g., paragraphs (<gi>p</gi>),
+      <p rend="dataDesc">any sequence of low-level structural elements, e.g. paragraphs (<gi>p</gi>),
       lists (<gi>list</gi>), or examples (<gi>eg</gi> or <gi>egXML</gi>).</p>
     </remarks>
     <remarks xml:lang="fr" versionDate="2007-06-12">

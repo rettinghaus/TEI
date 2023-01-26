@@ -585,7 +585,7 @@ for all basic categories, the definition should be made clear in the
 <u who="#tom">I used to <vocal><desc>cough</desc></vocal> smoke a lot</u>
 <u who="#bob"><vocal><desc>sniffs</desc></vocal>He thinks he's tough</u>
 <vocal who="#ann"><desc>snorts</desc></vocal>
-<!-- ... elsewhere, e.g., in the <particDesc>: -->
+<!-- ... elsewhere, e.g. in the <particDesc>: -->
 <listPerson>
 <person xml:id="ann"><!-- ... --></person>
 <person xml:id="bob"><!-- ... --></person>

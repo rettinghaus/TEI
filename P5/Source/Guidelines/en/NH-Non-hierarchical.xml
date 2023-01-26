@@ -36,7 +36,7 @@
             </item>
             <item>
                 <p>Conflict between different analytical views or
-                descriptions of a text or document, e.g., markup
+                descriptions of a text or document, e.g. markup
                 intended to encode diplomatic information about a
                 word's appearance in a manuscript with markup intended
                 to describe its morphology or pronunciation.</p>
@@ -564,7 +564,7 @@ psychiatrist.</said></l>
 
 	<p>A third method for aggregating fragmented partial elements
 	involves using markup that is not directly part of the
-	encoding, e.g., the <gi>join</gi> element. In this method, a
+	encoding, e.g. the <gi>join</gi> element. In this method, a
 	<gi>join</gi> element is used elsewhere in the document to
 	indicate explicitly the members of the virtual element:
 

@@ -1093,7 +1093,7 @@ tagset for English, with several versions that merge the part-of-speech and morp
 to various degrees).
 <note place="bottom">Given that the English language has relatively poor inflectional
 morphology, the decision to merge part-of-speech symbols with morphosyntactic features (as
-in, e.g., CLAWS-7, where the value <val>PPHO1</val> signals the 3rd person singular objective personal
+in, e.g. CLAWS-7, where the value <val>PPHO1</val> signals the 3rd person singular objective personal
 pronoun) is fully justified as the most economical approach. For languages with more
 robust inflection, the <att>pos</att> and <att>msd</att> attributes will either be used
 separately, or the part-of-speech information will be merged into the morphosyntactic
