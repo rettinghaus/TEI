@@ -25,12 +25,11 @@
   <classes>
     <memberOf key="att.global"/>
     <memberOf key="att.declarable"/>
+    <memberOf key="att.method"/>
     <memberOf key="model.editorialDeclPart"/>
   </classes>
   <content>
-    
       <classRef key="model.pLike" minOccurs="1" maxOccurs="unbounded"/>
-    
   </content>
   <attList>
     <attDef ident="status" usage="opt">
@@ -83,45 +82,6 @@
             desconocido.</desc>
           <desc versionDate="2008-04-05" xml:lang="ja">当該テキストに施された修正の精度は、不明である。</desc>
           <desc versionDate="2007-01-21" xml:lang="it">lo stadio di correzione non è noto.</desc>
-        </valItem>
-      </valList>
-    </attDef>
-    <attDef ident="method" usage="opt">
-      <desc versionDate="2005-01-14" xml:lang="en">indicates the method adopted to indicate corrections within the text.</desc>
-      <desc versionDate="2009-01-05" xml:lang="fr">indique la méthode adoptée pour signaler les
-        corrections dans le texte.</desc>
-      <desc versionDate="2007-12-20" xml:lang="ko">텍스트의 수정사항을 표시하기 위해 채택한 방법을 나타낸다.</desc>
-      <desc versionDate="2007-05-02" xml:lang="zh-TW">說明標示更正所採取的方法。</desc>
-      <desc versionDate="2008-04-05" xml:lang="ja">当該テキストに施された修正の方法を示す。</desc>
-      <desc versionDate="2006-10-18" xml:lang="de">Bezeichnet die Methode, die angewandt wurde um
-        Korrekturen im Text zu kennzeichnen.</desc>
-      <desc versionDate="2007-05-04" xml:lang="es">indica el método seguido para indicar las
-        correcciones al interno del texto.</desc>
-      <desc versionDate="2007-01-21" xml:lang="it">indica il metodo adottato per indicare le correzioni
-        all'interno di un testo.</desc>
-      <datatype><dataRef key="teidata.enumerated"/></datatype>
-      <defaultVal>silent</defaultVal>
-      <valList type="closed">
-        <valItem ident="silent">
-          <desc versionDate="2007-06-27" xml:lang="en">corrections have been made silently</desc>
-          <desc versionDate="2009-01-05" xml:lang="fr">les corrections ont été faites sans être
-            marquées.</desc>
-          <desc versionDate="2007-12-20" xml:lang="ko">수정사항이 표시되지 않았다.</desc>
-          <desc versionDate="2007-05-02" xml:lang="zh-TW">直接在文本中更正</desc>
-          <desc versionDate="2008-04-06" xml:lang="es">las correcciones se han hecho silenciosamente.</desc>
-          <desc versionDate="2008-04-05" xml:lang="ja">修正の跡は残されていない。</desc>
-          <desc versionDate="2007-01-21" xml:lang="it">le correzioni sono state apportate
-            silenziosamente</desc>
-        </valItem>
-        <valItem ident="markup">
-          <desc versionDate="2007-07-05" xml:lang="en">corrections have been represented using markup</desc>
-          <desc versionDate="2007-12-20" xml:lang="ko">수정사항이 마크업을 사용해 표사되었다.</desc>
-          <desc versionDate="2008-04-06" xml:lang="es">las correcciones se han representado mediante el
-            marcado</desc>
-          <desc versionDate="2008-04-05" xml:lang="ja">修正箇所は、タグで示されている。</desc>
-          <desc versionDate="2008-03-30" xml:lang="fr">les corrections ont été notées par un codage</desc>
-          <desc versionDate="2007-11-06" xml:lang="it">sono state rappresentate delle correzioni tramite
-            annotazione</desc>
         </valItem>
       </valList>
     </attDef>

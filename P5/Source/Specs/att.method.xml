@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- © TEI Consortium. Dual-licensed under CC-by and BSD2 licenses; see the file COPYING.txt for details. -->
+<?xml-model href="https://jenkins.tei-c.org/job/TEIP5-dev/lastSuccessfulBuild/artifact/P5/release/xml/tei/odd/p5.nvdl" type="application/xml" schematypens="http://purl.oclc.org/dsdl/nvdl/ns/structure/1.0"?>
+<classSpec xmlns="http://www.tei-c.org/ns/1.0" module="tei" type="atts" ident="att.method">
+  <desc versionDate="2007-10-02" xml:lang="en">provides attributes to indicate corrections and normalizations.</desc>
+  <classes/>
+  <attList>
+    <attDef ident="method" usage="opt">
+      <desc versionDate="2024-07-22" xml:lang="en">indicates the method adopted to indicate corrections and normalizations within the text.</desc>
+      <desc versionDate="2024-07-22" xml:lang="fr">indique la méthode adoptée pour signaler les corrections et les normalisations dans le texte.</desc>
+      <desc versionDate="2007-12-20" xml:lang="ko">텍스트의 수정사항을 표시하기 위해 채택한 방법을 나타낸다.</desc>
+      <desc versionDate="2007-05-02" xml:lang="zh-TW">說明標示更正所採取的方法。</desc>
+      <desc versionDate="2008-04-05" xml:lang="ja">当該テキストに施された修正の方法を示す。</desc>
+      <desc versionDate="2024-07-22" xml:lang="de">Bezeichnet die Methode, die angewandt wurde um Korrekturen im Text zu kennzeichnen.</desc>
+      <desc versionDate="2007-05-04" xml:lang="es">indica el método seguido para indicar las
+        correcciones al interno del texto.</desc>
+      <desc versionDate="2007-01-21" xml:lang="it">indica il metodo adottato per indicare le correzioni
+        all'interno di un testo.</desc>
+      <datatype><dataRef key="teidata.enumerated"/></datatype>
+      <defaultVal>silent</defaultVal>
+      <valList type="closed">
+        <valItem ident="silent">
+          <desc versionDate="2024-07-22" xml:lang="en">corrections and normalizations have been made silently.</desc>
+          <desc versionDate="2024-07-22" xml:lang="fr">les corrections et les normalisations ont été faites sans être marquées.</desc>
+          <desc versionDate="2024-07-22" xml:lang="de">Korrekturen und Normalisierungen wurden nicht gekennzeichnet.</desc>
+          <desc versionDate="2007-12-20" xml:lang="ko">수정사항이 표시되지 않았다.</desc>
+          <desc versionDate="2007-05-02" xml:lang="zh-TW">直接在文本中更正</desc>
+          <desc versionDate="2008-04-06" xml:lang="es">las correcciones se han hecho silenciosamente.</desc>
+          <desc versionDate="2008-04-05" xml:lang="ja">修正の跡は残されていない。</desc>
+          <desc versionDate="2007-01-21" xml:lang="it">le correzioni sono state apportate
+            silenziosamente</desc>
+        </valItem>
+        <valItem ident="markup">
+          <desc versionDate="2024-07-22" xml:lang="en">corrections and normalizations have been represented using markup.</desc>
+          <desc versionDate="2024-07-22" xml:lang="fr">les corrections et les normalisations ont été notées par un codage</desc>
+          <desc versionDate="2024-07-22" xml:lang="de">Korrekturen und Normalisierungen wurden ausgezeichnet.</desc>
+          <desc versionDate="2007-12-20" xml:lang="ko">수정사항이 마크업을 사용해 표사되었다.</desc>
+          <desc versionDate="2008-04-06" xml:lang="es">las correcciones se han representado mediante el
+            marcado</desc>
+          <desc versionDate="2008-04-05" xml:lang="ja">修正箇所は、タグで示されている。</desc>
+          <desc versionDate="2007-11-06" xml:lang="it">sono state rappresentate delle correzioni tramite
+            annotazione</desc>
+        </valItem>
+      </valList>
+    </attDef>
+  </attList>
+</classSpec>
