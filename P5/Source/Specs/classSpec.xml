@@ -60,7 +60,7 @@ that is a group of
           <gloss versionDate="2008-03-30" xml:lang="fr">modèle de contenu</gloss>
           <gloss versionDate="2007-11-06" xml:lang="it">modello di contenuto</gloss>
           <gloss versionDate="2024-02-28" xml:lang="ja">内容モデル</gloss>
-          <desc versionDate="2007-04-15" xml:lang="en">members of this class appear in the same  content models</desc>
+          <desc versionDate="2007-04-15" xml:lang="en">members of this class appear in the same content models</desc>
           <desc versionDate="2007-12-20" xml:lang="ko">이 부류의 원소는 동일 내용 모델에서 나타난다.</desc>
           <desc versionDate="2007-05-02" xml:lang="zh-TW">該元素集的元素出現在相同的內容模組中</desc>
           <desc versionDate="2008-04-05" xml:lang="ja">内容モデルクラス。</desc>
@@ -95,7 +95,7 @@ that is a group of
       <desc versionDate="2007-05-02" xml:lang="zh-TW">說明應該建立結構元素集的哪些替換及順序作業實例。在預設的情形下，會提供所有的變數。</desc>
       <desc versionDate="2008-04-05" xml:lang="ja">モデルクラスのインスタンスとしてある選択肢を示す。デフォルトでは、
       あらゆるものが可能である。</desc>
-      <desc versionDate="2007-06-12" xml:lang="fr">donne les règles régissant  dans une
+      <desc versionDate="2007-06-12" xml:lang="fr">donne les règles régissant dans une
 					instance TEI  l'ordre et l'alternance des éléments définis par la classe. Par
 					défaut, toutes les variations sont données.</desc>
       <desc versionDate="2007-05-04" xml:lang="es">indica que alternancia y que tipos de secuencia se establecen para una clase de modelos; por defecto se indican todas las variaciones.</desc>

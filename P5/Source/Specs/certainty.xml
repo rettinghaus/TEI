@@ -253,7 +253,7 @@ of the markup named by the <att>locus</att> attribute.</desc>
       <desc versionDate="2008-04-05" xml:lang="ja">属性<att>locus</att>で示された対象のに付与される確信度の程度を示 す。</desc>
       <desc versionDate="2009-01-06" xml:lang="fr">indique le degré de confiance attribué à l'aspect du balisage que désigne l'attribut <att>locus</att>.</desc>
       <desc versionDate="2007-05-04" xml:lang="es">indica el grado de confianza asignado al aspecto del marcaje llamado por el atributo <att>locus</att></desc>
-      <desc versionDate="2007-01-21" xml:lang="it">indica il grado di certezza assegnato ad un aspetto della codifica  indicato dall'attributo <att>locus</att>.</desc>
+      <desc versionDate="2007-01-21" xml:lang="it">indica il grado di certezza assegnato ad un aspetto della codifica indicato dall'attributo <att>locus</att>.</desc>
       <datatype><dataRef key="teidata.probability"/></datatype>
     </attDef>
   </attList>

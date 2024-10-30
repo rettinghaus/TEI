@@ -22,7 +22,7 @@ its parent is selected.</desc>
       どうかを示す。</desc>
       <desc versionDate="2007-06-12" xml:lang="fr">indique si oui ou non cet élément est affecté par
           défaut quand son élément parent a été sélectionné.</desc>
-      <desc versionDate="2007-05-04" xml:lang="es">indica si el elemento es seleccionado automáticamente o no  cuando es seleccionado el padre</desc>
+      <desc versionDate="2007-05-04" xml:lang="es">indica si el elemento es seleccionado automáticamente o no cuando es seleccionado el padre</desc>
       <desc versionDate="2007-01-21" xml:lang="it">indica se l'elemento è selezionato automaticamente quando è selezionato il genitore</desc>
       <datatype><dataRef key="teidata.truthValue"/></datatype>
       <defaultVal>false</defaultVal>

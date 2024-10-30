@@ -247,7 +247,7 @@ the node is incident.</desc>
       <desc versionDate="2007-05-02" xml:lang="zh-TW">節點的分支度，即為節點所附著的線條數。</desc>
       <desc versionDate="2008-04-05" xml:lang="ja">当該ノードの次数。すなわち、ノードにある辺の数。</desc>
       <desc versionDate="2007-06-12" xml:lang="fr">donne le degré du nœud, c'est-à-dire le nombre d'arcs avec lesquels le nœud est lié.</desc>
-      <desc versionDate="2007-05-04" xml:lang="es">define el grado del nodo, es decir,  el número de los arcos incidentes al nodo</desc>
+      <desc versionDate="2007-05-04" xml:lang="es">define el grado del nodo, es decir, el número de los arcos incidentes al nodo</desc>
       <desc versionDate="2007-01-21" xml:lang="it">definisce il grado del nodo, cioè il numero degli archi incidenti al nodo</desc>
       <datatype><dataRef key="teidata.count"/></datatype>
       <exemplum xml:lang="und">

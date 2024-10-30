@@ -11,7 +11,7 @@ le fait une espace.</desc>
   <desc versionDate="2018-12-31" xml:lang="ja">当該要素が空白と同じ方法で正字トークンの終わりを示すとみなされるかどうかを示す属性を提供する。</desc>
   <attList>
     <attDef ident="break" usage="rec">
-      <desc versionDate="2011-01-30" xml:lang="en">indicates whether or not the  element
+      <desc versionDate="2011-01-30" xml:lang="en">indicates whether or not the element
 	bearing this attribute should be considered to mark the end of
 	an orthographic token in the same way as whitespace.</desc>
       <desc versionDate="2007-06-12" xml:lang="fr">indique si l'élément qui porte cet attribut
